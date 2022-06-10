@@ -1,0 +1,559 @@
+2022-06-10_00-06-01 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Starting AuthorizationServiceApplication using Java 13 on DESKTOP-KA0RH82 with PID 11420 (C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service\target\classes started by SHREYASH in C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service)
+2022-06-10_00-06-01 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-10_00-06-01 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-06-10_00-06-01 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-06-10_00-06-01 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 5000 (http)
+2022-06-10_00-06-01 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-5000"]
+2022-06-10_00-06-01 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-10_00-06-01 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-06-10_00-06-01 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-10_00-06-01 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2153 ms
+2022-06-10_00-06-01 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7e7dedb5, org.springframework.security.web.context.SecurityContextPersistenceFilter@2466827, org.springframework.security.web.header.HeaderWriterFilter@d2d9bf1, org.springframework.security.web.authentication.logout.LogoutFilter@38c742ff, com.pms.auth.config.JwtRequestFilter@58bb649f, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3a71c0f1, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2611c0d0, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2c7852ce, org.springframework.security.web.session.SessionManagementFilter@2c157bd7, org.springframework.security.web.access.ExceptionTranslationFilter@695d5733, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@7ae2c821]
+2022-06-10_00-06-01 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-06-10_00-06-01 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-5000"]
+2022-06-10_00-06-01 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 5000 (http) with context path ''
+2022-06-10_00-06-01 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Started AuthorizationServiceApplication in 4.547 seconds (JVM running for 6.203)
+2022-06-10_00-06-01 [http-nio-5000-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-10_00-06-01 [http-nio-5000-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-06-10_00-06-01 [http-nio-5000-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2022-06-10_00-06-01 [RMI TCP Connection(24)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2022-06-10_07-28-32 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Starting AuthorizationServiceApplication using Java 13 on DESKTOP-KA0RH82 with PID 8948 (C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service\target\classes started by SHREYASH in C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service)
+2022-06-10_07-28-32 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-10_07-28-32 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-06-10_07-28-32 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-06-10_07-28-32 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 5000 (http)
+2022-06-10_07-28-32 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-5000"]
+2022-06-10_07-28-32 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-10_07-28-32 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-06-10_07-28-32 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-10_07-28-32 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2186 ms
+2022-06-10_07-28-32 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1ade3f82, org.springframework.security.web.context.SecurityContextPersistenceFilter@121c603b, org.springframework.security.web.header.HeaderWriterFilter@3e76becf, org.springframework.security.web.authentication.logout.LogoutFilter@185a2c6a, com.pms.auth.config.JwtRequestFilter@281c3423, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4165c379, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@69f71b8e, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@673246bf, org.springframework.security.web.session.SessionManagementFilter@27631fcb, org.springframework.security.web.access.ExceptionTranslationFilter@36bc5384, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@39c99b7a]
+2022-06-10_07-28-32 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-06-10_07-28-32 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-5000"]
+2022-06-10_07-28-32 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 5000 (http) with context path ''
+2022-06-10_07-28-32 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Started AuthorizationServiceApplication in 4.946 seconds (JVM running for 6.983)
+2022-06-10_07-28-32 [http-nio-5000-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-10_07-28-32 [http-nio-5000-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-06-10_07-28-32 [http-nio-5000-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2022-06-10_07-28-32 [RMI TCP Connection(20)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2022-06-10_07-47-00 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Starting AuthorizationServiceApplication using Java 13 on DESKTOP-KA0RH82 with PID 15152 (C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service\target\classes started by SHREYASH in C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service)
+2022-06-10_07-47-00 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-10_07-47-00 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-06-10_07-47-00 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-06-10_07-47-00 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 5000 (http)
+2022-06-10_07-47-00 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-5000"]
+2022-06-10_07-47-00 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-10_07-47-00 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-06-10_07-47-00 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-10_07-47-00 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2411 ms
+2022-06-10_07-47-00 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@12faa8ee, org.springframework.security.web.context.SecurityContextPersistenceFilter@396546e4, org.springframework.security.web.header.HeaderWriterFilter@20b003e1, org.springframework.security.web.authentication.logout.LogoutFilter@2c0e133d, com.pms.auth.config.JwtRequestFilter@75b0dcdf, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@5c2439a9, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1ae2e84f, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@5d0b072f, org.springframework.security.web.session.SessionManagementFilter@3ba568d, org.springframework.security.web.access.ExceptionTranslationFilter@3ce0c22e, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@6d699b66]
+2022-06-10_07-47-00 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-5000"]
+2022-06-10_07-47-00 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 5000 (http) with context path ''
+2022-06-10_07-47-00 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Started AuthorizationServiceApplication in 5.411 seconds (JVM running for 7.466)
+2022-06-10_07-47-00 [http-nio-5000-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-10_07-47-00 [http-nio-5000-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-06-10_07-47-00 [http-nio-5000-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2022-06-10_07-47-00 [RMI TCP Connection(88)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2022-06-10_09-12-30 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Starting AuthorizationServiceApplication using Java 13 on DESKTOP-KA0RH82 with PID 13164 (C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service\target\classes started by SHREYASH in C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service)
+2022-06-10_09-12-30 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-10_09-12-30 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-06-10_09-12-30 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-06-10_09-12-30 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 5000 (http)
+2022-06-10_09-12-30 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-5000"]
+2022-06-10_09-12-30 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-10_09-12-30 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-06-10_09-12-30 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-10_09-12-30 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2670 ms
+2022-06-10_09-12-30 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@6ac1e3aa, org.springframework.security.web.context.SecurityContextPersistenceFilter@6583624b, org.springframework.security.web.header.HeaderWriterFilter@41845989, org.springframework.security.web.authentication.logout.LogoutFilter@2f7c9bab, com.pms.auth.config.JwtRequestFilter@5475a458, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3e05b5da, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@66ee004e, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3760440f, org.springframework.security.web.session.SessionManagementFilter@7bf5234f, org.springframework.security.web.access.ExceptionTranslationFilter@3984c9d7, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@58b40d96]
+2022-06-10_09-12-30 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-5000"]
+2022-06-10_09-12-30 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 5000 (http) with context path ''
+2022-06-10_09-12-30 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Started AuthorizationServiceApplication in 5.052 seconds (JVM running for 6.539)
+2022-06-10_09-12-30 [http-nio-5000-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-10_09-12-30 [http-nio-5000-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-06-10_09-12-30 [http-nio-5000-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-06-10_09-42-19 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Starting AuthorizationServiceApplication using Java 13 on DESKTOP-KA0RH82 with PID 13164 (C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service\target\classes started by SHREYASH in C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service)
+2022-06-10_09-42-19 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-10_09-42-19 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 5000 (http)
+2022-06-10_09-42-19 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-5000"]
+2022-06-10_09-42-19 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-10_09-42-19 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-06-10_09-42-19 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-10_09-42-19 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 834 ms
+2022-06-10_09-42-19 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1b59df7c, org.springframework.security.web.context.SecurityContextPersistenceFilter@4841f288, org.springframework.security.web.header.HeaderWriterFilter@36dbabd2, org.springframework.security.web.authentication.logout.LogoutFilter@298a38ee, com.pms.auth.config.JwtRequestFilter@13b12980, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@49a4bfb4, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@22ca1869, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@392ff39c, org.springframework.security.web.session.SessionManagementFilter@275d6867, org.springframework.security.web.access.ExceptionTranslationFilter@5609084, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@52802579]
+2022-06-10_09-42-19 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-5000"]
+2022-06-10_09-42-19 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 5000 (http) with context path ''
+2022-06-10_09-42-19 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Started AuthorizationServiceApplication in 1.171 seconds (JVM running for 1791.41)
+2022-06-10_09-42-19 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2022-06-10_09-42-30 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Starting AuthorizationServiceApplication using Java 13 on DESKTOP-KA0RH82 with PID 13164 (C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service\target\classes started by SHREYASH in C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service)
+2022-06-10_09-42-30 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-10_09-42-30 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 5000 (http)
+2022-06-10_09-42-30 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-5000"]
+2022-06-10_09-42-30 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-10_09-42-30 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-06-10_09-42-30 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-10_09-42-30 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 512 ms
+2022-06-10_09-42-30 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1eb8827d, org.springframework.security.web.context.SecurityContextPersistenceFilter@374b0023, org.springframework.security.web.header.HeaderWriterFilter@60bb349e, org.springframework.security.web.authentication.logout.LogoutFilter@6e2c4263, com.pms.auth.config.JwtRequestFilter@4c7e8ad1, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3022d4f6, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@98409a8, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2834bef2, org.springframework.security.web.session.SessionManagementFilter@7b6e7d7c, org.springframework.security.web.access.ExceptionTranslationFilter@528abc80, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@4634e7f6]
+2022-06-10_09-42-30 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-5000"]
+2022-06-10_09-42-30 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 5000 (http) with context path ''
+2022-06-10_09-42-30 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Started AuthorizationServiceApplication in 0.837 seconds (JVM running for 1802.279)
+2022-06-10_09-42-30 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2022-06-10_09-42-55 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Starting AuthorizationServiceApplication using Java 13 on DESKTOP-KA0RH82 with PID 13164 (C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service\target\classes started by SHREYASH in C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service)
+2022-06-10_09-42-55 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-10_09-42-55 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 5000 (http)
+2022-06-10_09-42-55 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-5000"]
+2022-06-10_09-42-55 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-10_09-42-55 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-06-10_09-42-55 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-10_09-42-55 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 492 ms
+2022-06-10_09-42-55 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@e19fa00, org.springframework.security.web.context.SecurityContextPersistenceFilter@a7f1dcc, org.springframework.security.web.header.HeaderWriterFilter@60606fff, org.springframework.security.web.authentication.logout.LogoutFilter@3ac9a0fb, com.pms.auth.config.JwtRequestFilter@1fb1751, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@494756f9, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2a3bc7b9, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@40a14b5a, org.springframework.security.web.session.SessionManagementFilter@6c91dc45, org.springframework.security.web.access.ExceptionTranslationFilter@4cb1f95b, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@837f69]
+2022-06-10_09-42-55 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-5000"]
+2022-06-10_09-42-55 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 5000 (http) with context path ''
+2022-06-10_09-42-55 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Started AuthorizationServiceApplication in 0.785 seconds (JVM running for 1827.485)
+2022-06-10_09-42-55 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2022-06-10_09-43-11 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Starting AuthorizationServiceApplication using Java 13 on DESKTOP-KA0RH82 with PID 13164 (C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service\target\classes started by SHREYASH in C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service)
+2022-06-10_09-43-11 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-10_09-43-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 5000 (http)
+2022-06-10_09-43-11 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-5000"]
+2022-06-10_09-43-11 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-10_09-43-11 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-06-10_09-43-11 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-10_09-43-11 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 504 ms
+2022-06-10_09-43-11 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@3c9aae6d, org.springframework.security.web.context.SecurityContextPersistenceFilter@324ea223, org.springframework.security.web.header.HeaderWriterFilter@5e2c3544, org.springframework.security.web.authentication.logout.LogoutFilter@5d3236c2, com.pms.auth.config.JwtRequestFilter@19fb08e6, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4254f056, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@7ded6b4d, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@29056ec1, org.springframework.security.web.session.SessionManagementFilter@5907d4fa, org.springframework.security.web.access.ExceptionTranslationFilter@11e3e92, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@67808a8e]
+2022-06-10_09-43-11 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-5000"]
+2022-06-10_09-43-11 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 5000 (http) with context path ''
+2022-06-10_09-43-11 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Started AuthorizationServiceApplication in 0.795 seconds (JVM running for 1843.575)
+2022-06-10_09-43-11 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2022-06-10_09-44-03 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Starting AuthorizationServiceApplication using Java 13 on DESKTOP-KA0RH82 with PID 13164 (C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service\target\classes started by SHREYASH in C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service)
+2022-06-10_09-44-03 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-10_09-44-03 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 5000 (http)
+2022-06-10_09-44-03 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-5000"]
+2022-06-10_09-44-03 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-10_09-44-03 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-06-10_09-44-03 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-10_09-44-03 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 689 ms
+2022-06-10_09-44-03 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@6ec3b55a, org.springframework.security.web.context.SecurityContextPersistenceFilter@2c8b5981, org.springframework.security.web.header.HeaderWriterFilter@6fffb301, org.springframework.security.web.authentication.logout.LogoutFilter@8eb9076, com.pms.auth.config.JwtRequestFilter@3fe57327, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@549e1061, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@46ebc648, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@687be2e9, org.springframework.security.web.session.SessionManagementFilter@5bfc7ea6, org.springframework.security.web.access.ExceptionTranslationFilter@4567a150, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@724104e]
+2022-06-10_09-44-03 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-5000"]
+2022-06-10_09-44-03 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 5000 (http) with context path ''
+2022-06-10_09-44-03 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Started AuthorizationServiceApplication in 1.041 seconds (JVM running for 1894.962)
+2022-06-10_09-44-03 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2022-06-10_09-44-03 [RMI TCP Connection(34)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2022-06-10_09-45-05 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Starting AuthorizationServiceApplication using Java 13 on DESKTOP-KA0RH82 with PID 3472 (C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service\target\classes started by SHREYASH in C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service)
+2022-06-10_09-45-05 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-10_09-45-05 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-06-10_09-45-05 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-06-10_09-45-05 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 5000 (http)
+2022-06-10_09-45-05 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-5000"]
+2022-06-10_09-45-05 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-10_09-45-05 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-06-10_09-45-05 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-10_09-45-05 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2484 ms
+2022-06-10_09-45-05 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@478e0952, org.springframework.security.web.context.SecurityContextPersistenceFilter@56fe6bdd, org.springframework.security.web.header.HeaderWriterFilter@3986e1bf, org.springframework.security.web.authentication.logout.LogoutFilter@5f3330b, com.pms.auth.config.JwtRequestFilter@65496471, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@75fc6321, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@4c5a2d0f, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@25f1e7d3, org.springframework.security.web.session.SessionManagementFilter@5e6cbf6c, org.springframework.security.web.access.ExceptionTranslationFilter@6647c7b2, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@7b99cb02]
+2022-06-10_09-45-05 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-06-10_09-45-05 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-5000"]
+2022-06-10_09-45-05 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 5000 (http) with context path ''
+2022-06-10_09-45-05 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Started AuthorizationServiceApplication in 5.734 seconds (JVM running for 7.293)
+2022-06-10_09-45-05 [http-nio-5000-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-10_09-45-05 [http-nio-5000-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-06-10_09-45-05 [http-nio-5000-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-06-10_09-45-05 [http-nio-5000-exec-1] INFO  c.p.a.c.JwtAuthenticationController - Inside authenticate Method==================================
+2022-06-10_09-45-05 [http-nio-5000-exec-1] INFO  c.p.a.c.JwtAuthenticationController - Authentication Successful.....
+2022-06-10_09-45-05 [http-nio-5000-exec-1] INFO  c.p.a.c.JwtAuthenticationController - UsernamePasswordAuthenticationToken [Principal=org.springframework.security.core.userdetails.User [Username=user, Password=[PROTECTED], Enabled=true, AccountNonExpired=true, credentialsNonExpired=true, AccountNonLocked=true, Granted Authorities=[]], Credentials=[PROTECTED], Authenticated=true, Details=null, Granted Authorities=[]]
+2022-06-10_09-45-05 [RMI TCP Connection(5)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2022-06-10_09-48-14 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Starting AuthorizationServiceApplication using Java 13 on DESKTOP-KA0RH82 with PID 4036 (C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service\target\classes started by SHREYASH in C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service)
+2022-06-10_09-48-14 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-10_09-48-14 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-06-10_09-48-14 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-06-10_09-48-14 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 5000 (http)
+2022-06-10_09-48-14 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-5000"]
+2022-06-10_09-48-14 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-10_09-48-14 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-06-10_09-48-14 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-10_09-48-14 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 4500 ms
+2022-06-10_09-48-14 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7ebec1b1, org.springframework.security.web.context.SecurityContextPersistenceFilter@5360767d, org.springframework.security.web.header.HeaderWriterFilter@5cf6fc5a, org.springframework.security.web.authentication.logout.LogoutFilter@527d15bd, com.pms.auth.config.JwtRequestFilter@91da0db, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@2103e404, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@4051125d, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4a85299d, org.springframework.security.web.session.SessionManagementFilter@42b804ff, org.springframework.security.web.access.ExceptionTranslationFilter@65c8adae, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@6c54df1c]
+2022-06-10_09-48-14 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-5000"]
+2022-06-10_09-48-14 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 5000 (http) with context path ''
+2022-06-10_09-48-14 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Started AuthorizationServiceApplication in 9.298 seconds (JVM running for 12.161)
+2022-06-10_09-48-14 [http-nio-5000-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-10_09-48-14 [http-nio-5000-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-06-10_09-48-14 [http-nio-5000-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2022-06-10_09-48-14 [http-nio-5000-exec-1] INFO  c.p.a.c.JwtAuthenticationController - Inside authenticate Method==================================
+2022-06-10_09-48-14 [http-nio-5000-exec-1] INFO  c.p.a.c.JwtAuthenticationController - Authentication Successful.....
+2022-06-10_09-48-14 [http-nio-5000-exec-1] INFO  c.p.a.c.JwtAuthenticationController - UsernamePasswordAuthenticationToken [Principal=org.springframework.security.core.userdetails.User [Username=user, Password=[PROTECTED], Enabled=true, AccountNonExpired=true, credentialsNonExpired=true, AccountNonLocked=true, Granted Authorities=[]], Credentials=[PROTECTED], Authenticated=true, Details=null, Granted Authorities=[]]
+2022-06-10_09-50-54 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Starting AuthorizationServiceApplication using Java 13 on DESKTOP-KA0RH82 with PID 4036 (C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service\target\classes started by SHREYASH in C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service)
+2022-06-10_09-50-54 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-10_09-50-54 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 5000 (http)
+2022-06-10_09-50-54 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-5000"]
+2022-06-10_09-50-54 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-10_09-50-54 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-06-10_09-50-54 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-10_09-50-54 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 712 ms
+2022-06-10_09-50-54 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@37663078, org.springframework.security.web.context.SecurityContextPersistenceFilter@761fdb46, org.springframework.security.web.header.HeaderWriterFilter@56ada122, org.springframework.security.web.authentication.logout.LogoutFilter@15b23482, com.pms.auth.config.JwtRequestFilter@1403a397, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@37c750d4, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@cd843bf, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3530a32a, org.springframework.security.web.session.SessionManagementFilter@741cb549, org.springframework.security.web.access.ExceptionTranslationFilter@1a3b744d, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@b9bfe9b]
+2022-06-10_09-50-54 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-5000"]
+2022-06-10_09-50-54 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 5000 (http) with context path ''
+2022-06-10_09-50-54 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Started AuthorizationServiceApplication in 1.328 seconds (JVM running for 165.124)
+2022-06-10_09-50-54 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2022-06-10_09-51-57 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Starting AuthorizationServiceApplication using Java 13 on DESKTOP-KA0RH82 with PID 9132 (C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service\target\classes started by SHREYASH in C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service)
+2022-06-10_09-51-57 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-10_09-51-57 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-06-10_09-51-57 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-06-10_09-51-57 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 5000 (http)
+2022-06-10_09-51-57 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-5000"]
+2022-06-10_09-51-57 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-10_09-51-57 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-06-10_09-51-57 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-10_09-51-57 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2978 ms
+2022-06-10_09-51-57 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@49e2149a, org.springframework.security.web.context.SecurityContextPersistenceFilter@7ab09ec2, org.springframework.security.web.header.HeaderWriterFilter@1a989254, org.springframework.security.web.authentication.logout.LogoutFilter@5e08ab90, com.pms.auth.config.JwtRequestFilter@1b91870e, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4f191940, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@3a302dc7, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@13cbf92c, org.springframework.security.web.session.SessionManagementFilter@6a3b88cc, org.springframework.security.web.access.ExceptionTranslationFilter@76c64ee4, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@639dd2c0]
+2022-06-10_09-51-57 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-5000"]
+2022-06-10_09-51-57 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-5000"]
+2022-06-10_09-51-57 [restartedMain] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2022-06-10_09-51-57 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-5000"]
+2022-06-10_09-51-57 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-5000"]
+2022-06-10_09-51-57 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-06-10_09-50-54 [http-nio-5000-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-10_09-50-54 [http-nio-5000-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-06-10_09-50-54 [http-nio-5000-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-06-10_09-50-54 [http-nio-5000-exec-2] INFO  c.p.a.c.JwtAuthenticationController - Inside authenticate Method==================================
+2022-06-10_09-50-54 [http-nio-5000-exec-2] INFO  c.p.a.c.JwtAuthenticationController - Authentication Successful.....
+2022-06-10_09-50-54 [http-nio-5000-exec-2] INFO  c.p.a.c.JwtAuthenticationController - UsernamePasswordAuthenticationToken [Principal=org.springframework.security.core.userdetails.User [Username=user, Password=[PROTECTED], Enabled=true, AccountNonExpired=true, credentialsNonExpired=true, AccountNonLocked=true, Granted Authorities=[]], Credentials=[PROTECTED], Authenticated=true, Details=null, Granted Authorities=[]]
+2022-06-10_09-50-54 [RMI TCP Connection(8)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2022-06-10_09-53-50 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Starting AuthorizationServiceApplication using Java 13 on DESKTOP-KA0RH82 with PID 12284 (C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service\target\classes started by SHREYASH in C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service)
+2022-06-10_09-53-50 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-10_09-53-50 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-06-10_09-53-50 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-06-10_09-53-50 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 5000 (http)
+2022-06-10_09-53-50 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-5000"]
+2022-06-10_09-53-50 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-10_09-53-50 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-06-10_09-53-50 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-10_09-53-50 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2165 ms
+2022-06-10_09-53-50 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7f27d6dc, org.springframework.security.web.context.SecurityContextPersistenceFilter@51d28500, org.springframework.security.web.header.HeaderWriterFilter@5d0bef53, org.springframework.security.web.authentication.logout.LogoutFilter@3899c964, com.pms.auth.config.JwtRequestFilter@7bf219e2, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3a869b10, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@3965f925, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@22ce5af7, org.springframework.security.web.session.SessionManagementFilter@5487eff8, org.springframework.security.web.access.ExceptionTranslationFilter@7e1be7db, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@ad0ada6]
+2022-06-10_09-53-50 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-06-10_09-53-50 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-5000"]
+2022-06-10_09-53-50 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 5000 (http) with context path ''
+2022-06-10_09-53-50 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Started AuthorizationServiceApplication in 4.727 seconds (JVM running for 6.249)
+2022-06-10_09-53-50 [http-nio-5000-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-10_09-53-50 [http-nio-5000-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-06-10_09-53-50 [http-nio-5000-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-06-10_09-53-50 [http-nio-5000-exec-2] INFO  c.p.a.c.JwtAuthenticationController - Inside authenticate Method==================================
+2022-06-10_09-53-50 [http-nio-5000-exec-2] INFO  c.p.a.c.JwtAuthenticationController - Authentication Successful.....
+2022-06-10_09-53-50 [http-nio-5000-exec-2] INFO  c.p.a.c.JwtAuthenticationController - UsernamePasswordAuthenticationToken [Principal=org.springframework.security.core.userdetails.User [Username=kunal, Password=[PROTECTED], Enabled=true, AccountNonExpired=true, credentialsNonExpired=true, AccountNonLocked=true, Granted Authorities=[]], Credentials=[PROTECTED], Authenticated=true, Details=null, Granted Authorities=[]]
+2022-06-10_09-55-25 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Starting AuthorizationServiceApplication using Java 13 on DESKTOP-KA0RH82 with PID 12284 (C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service\target\classes started by SHREYASH in C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service)
+2022-06-10_09-55-25 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-10_09-55-25 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 5000 (http)
+2022-06-10_09-55-25 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-5000"]
+2022-06-10_09-55-25 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-10_09-55-25 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-06-10_09-55-25 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-10_09-55-25 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 802 ms
+2022-06-10_09-55-25 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@198d5a67, org.springframework.security.web.context.SecurityContextPersistenceFilter@3a1f42b, org.springframework.security.web.header.HeaderWriterFilter@4d9cb988, org.springframework.security.web.authentication.logout.LogoutFilter@7a5854c7, com.pms.auth.config.JwtRequestFilter@43981236, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4d899773, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@65f137b3, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@449bebde, org.springframework.security.web.session.SessionManagementFilter@7fed9b6c, org.springframework.security.web.access.ExceptionTranslationFilter@140b5db9, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@5088722]
+2022-06-10_09-55-25 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-06-10_09-55-25 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-5000"]
+2022-06-10_09-55-25 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 5000 (http) with context path ''
+2022-06-10_09-55-25 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Started AuthorizationServiceApplication in 1.215 seconds (JVM running for 98.53)
+2022-06-10_09-55-25 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2022-06-10_09-55-25 [RMI TCP Connection(5)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2022-06-10_09-58-13 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Starting AuthorizationServiceApplication using Java 13 on DESKTOP-KA0RH82 with PID 15056 (C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service\target\classes started by SHREYASH in C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service)
+2022-06-10_09-58-13 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-10_09-58-13 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-06-10_09-58-13 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-06-10_09-58-13 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 5000 (http)
+2022-06-10_09-58-13 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-5000"]
+2022-06-10_09-58-13 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-10_09-58-13 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-06-10_09-58-13 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-10_09-58-13 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1985 ms
+2022-06-10_09-58-13 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@498c76d4, org.springframework.security.web.context.SecurityContextPersistenceFilter@599472d7, org.springframework.security.web.header.HeaderWriterFilter@f999452, org.springframework.security.web.authentication.logout.LogoutFilter@79b1fe0f, com.pms.auth.config.JwtRequestFilter@134eb337, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3a6ecd93, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@3c685bf0, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@ff62093, org.springframework.security.web.session.SessionManagementFilter@14d6f6ed, org.springframework.security.web.access.ExceptionTranslationFilter@570ff560, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@4807e31a]
+2022-06-10_09-58-13 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-06-10_09-58-13 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-5000"]
+2022-06-10_09-58-13 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 5000 (http) with context path ''
+2022-06-10_09-58-13 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Started AuthorizationServiceApplication in 4.393 seconds (JVM running for 5.96)
+2022-06-10_09-58-13 [http-nio-5000-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-10_09-58-13 [http-nio-5000-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-06-10_09-58-13 [http-nio-5000-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2022-06-10_09-58-13 [http-nio-5000-exec-1] INFO  c.p.a.c.JwtAuthenticationController - Inside authenticate Method==================================
+2022-06-10_09-58-13 [http-nio-5000-exec-1] INFO  c.p.a.c.JwtAuthenticationController - Authentication Successful.....
+2022-06-10_09-58-13 [http-nio-5000-exec-1] INFO  c.p.a.c.JwtAuthenticationController - UsernamePasswordAuthenticationToken [Principal=org.springframework.security.core.userdetails.User [Username=user, Password=[PROTECTED], Enabled=true, AccountNonExpired=true, credentialsNonExpired=true, AccountNonLocked=true, Granted Authorities=[]], Credentials=[PROTECTED], Authenticated=true, Details=null, Granted Authorities=[]]
+2022-06-10_09-58-13 [http-nio-5000-exec-3] INFO  c.p.a.c.JwtAuthenticationController - Inside authenticate Method==================================
+2022-06-10_09-58-13 [http-nio-5000-exec-3] INFO  c.p.a.c.JwtAuthenticationController - Authentication Successful.....
+2022-06-10_09-58-13 [http-nio-5000-exec-3] INFO  c.p.a.c.JwtAuthenticationController - UsernamePasswordAuthenticationToken [Principal=org.springframework.security.core.userdetails.User [Username=user, Password=[PROTECTED], Enabled=true, AccountNonExpired=true, credentialsNonExpired=true, AccountNonLocked=true, Granted Authorities=[]], Credentials=[PROTECTED], Authenticated=true, Details=null, Granted Authorities=[]]
+2022-06-10_09-58-13 [RMI TCP Connection(5)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2022-06-10_10-12-35 [restartedMain] INFO  c.p.AuthorizationServiceApplication - Starting AuthorizationServiceApplication using Java 13 on DESKTOP-KA0RH82 with PID 14564 (C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service\target\classes started by SHREYASH in C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service)
+2022-06-10_10-12-35 [restartedMain] INFO  c.p.AuthorizationServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-10_10-12-35 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-06-10_10-12-35 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-06-10_10-12-35 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 5000 (http)
+2022-06-10_10-12-35 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-5000"]
+2022-06-10_10-12-35 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-10_10-12-35 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-06-10_10-12-35 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-10_10-12-35 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2185 ms
+2022-06-10_10-12-35 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@5629a598, org.springframework.security.web.context.SecurityContextPersistenceFilter@3f22a1b, org.springframework.security.web.header.HeaderWriterFilter@7d22f710, org.springframework.security.web.authentication.logout.LogoutFilter@2316aecb, com.pensionauth.config.JwtRequestFilter@79a8a702, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@30e941a8, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@6846b8da, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4d2807b4, org.springframework.security.web.session.SessionManagementFilter@ddf37a3, org.springframework.security.web.access.ExceptionTranslationFilter@48ac3bdc, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@3db72c18]
+2022-06-10_10-12-35 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-06-10_10-12-35 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-5000"]
+2022-06-10_10-12-35 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 5000 (http) with context path ''
+2022-06-10_10-12-35 [restartedMain] INFO  c.p.AuthorizationServiceApplication - Started AuthorizationServiceApplication in 4.918 seconds (JVM running for 6.432)
+2022-06-10_10-12-35 [http-nio-5000-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-10_10-12-35 [http-nio-5000-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-06-10_10-12-35 [http-nio-5000-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-06-10_10-12-35 [http-nio-5000-exec-1] INFO  c.p.c.JwtAuthenticationController - Inside authenticate Method==================================
+2022-06-10_10-12-35 [http-nio-5000-exec-1] INFO  c.p.c.JwtAuthenticationController - Authentication Successful.....
+2022-06-10_10-12-35 [http-nio-5000-exec-1] INFO  c.p.c.JwtAuthenticationController - UsernamePasswordAuthenticationToken [Principal=org.springframework.security.core.userdetails.User [Username=user, Password=[PROTECTED], Enabled=true, AccountNonExpired=true, credentialsNonExpired=true, AccountNonLocked=true, Granted Authorities=[]], Credentials=[PROTECTED], Authenticated=true, Details=null, Granted Authorities=[]]
+2022-06-10_10-14-27 [restartedMain] INFO  c.p.AuthorizationServiceApplication - Starting AuthorizationServiceApplication using Java 13 on DESKTOP-KA0RH82 with PID 14564 (C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service\target\classes started by SHREYASH in C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service)
+2022-06-10_10-14-27 [restartedMain] INFO  c.p.AuthorizationServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-10_10-14-27 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9000 (http)
+2022-06-10_10-14-27 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9000"]
+2022-06-10_10-14-27 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-10_10-14-27 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-06-10_10-14-27 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-10_10-14-27 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 720 ms
+2022-06-10_10-14-27 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@2a511374, org.springframework.security.web.context.SecurityContextPersistenceFilter@2d28c577, org.springframework.security.web.header.HeaderWriterFilter@6c42e4a2, org.springframework.security.web.authentication.logout.LogoutFilter@5ee0a65e, com.pensionauth.config.JwtRequestFilter@215be285, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4bad062a, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@30b18c09, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4dc21e6f, org.springframework.security.web.session.SessionManagementFilter@42f8f892, org.springframework.security.web.access.ExceptionTranslationFilter@2c094d5d, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@7cc7a2f0]
+2022-06-10_10-14-27 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-06-10_10-14-27 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9000"]
+2022-06-10_10-14-27 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9000 (http) with context path ''
+2022-06-10_10-14-27 [restartedMain] INFO  c.p.AuthorizationServiceApplication - Started AuthorizationServiceApplication in 1.283 seconds (JVM running for 114.057)
+2022-06-10_10-14-27 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2022-06-10_10-14-30 [restartedMain] INFO  c.p.AuthorizationServiceApplication - Starting AuthorizationServiceApplication using Java 13 on DESKTOP-KA0RH82 with PID 14564 (C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service\target\classes started by SHREYASH in C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service)
+2022-06-10_10-14-30 [restartedMain] INFO  c.p.AuthorizationServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-10_10-14-30 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9000 (http)
+2022-06-10_10-14-30 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9000"]
+2022-06-10_10-14-30 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-10_10-14-30 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-06-10_10-14-30 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-10_10-14-30 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 637 ms
+2022-06-10_10-14-30 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@25795483, org.springframework.security.web.context.SecurityContextPersistenceFilter@122679df, org.springframework.security.web.header.HeaderWriterFilter@5055d537, org.springframework.security.web.authentication.logout.LogoutFilter@7e4e817a, com.pensionauth.config.JwtRequestFilter@682025c0, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@551fbda5, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2b1d365c, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@1d55b219, org.springframework.security.web.session.SessionManagementFilter@10dc9645, org.springframework.security.web.access.ExceptionTranslationFilter@17ba1896, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@217540cd]
+2022-06-10_10-14-30 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-06-10_10-14-30 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9000"]
+2022-06-10_10-14-30 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9000 (http) with context path ''
+2022-06-10_10-14-30 [restartedMain] INFO  c.p.AuthorizationServiceApplication - Started AuthorizationServiceApplication in 1.156 seconds (JVM running for 116.959)
+2022-06-10_10-14-30 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2022-06-10_10-15-05 [restartedMain] INFO  c.p.AuthorizationServiceApplication - Starting AuthorizationServiceApplication using Java 13 on DESKTOP-KA0RH82 with PID 14564 (C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service\target\classes started by SHREYASH in C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service)
+2022-06-10_10-15-05 [restartedMain] INFO  c.p.AuthorizationServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-10_10-15-05 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9000 (http)
+2022-06-10_10-15-05 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-10_10-15-05 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-06-10_10-15-05 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-10_10-15-05 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 610 ms
+2022-06-10_10-15-05 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@2a041d97, org.springframework.security.web.context.SecurityContextPersistenceFilter@9b8abaa, org.springframework.security.web.header.HeaderWriterFilter@174bd235, org.springframework.security.web.authentication.logout.LogoutFilter@61266eaa, com.pensionauth.config.JwtRequestFilter@25708388, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@438dba5e, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@a1e0260, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@103682b, org.springframework.security.web.session.SessionManagementFilter@3bf388a9, org.springframework.security.web.access.ExceptionTranslationFilter@5e829fbc, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@fc2d1f6]
+2022-06-10_10-15-05 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-06-10_10-15-05 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9000 (http) with context path ''
+2022-06-10_10-15-05 [restartedMain] INFO  c.p.AuthorizationServiceApplication - Started AuthorizationServiceApplication in 0.94 seconds (JVM running for 152.232)
+2022-06-10_10-15-05 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2022-06-10_10-15-08 [restartedMain] INFO  c.p.AuthorizationServiceApplication - Starting AuthorizationServiceApplication using Java 13 on DESKTOP-KA0RH82 with PID 14564 (C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service\target\classes started by SHREYASH in C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service)
+2022-06-10_10-15-08 [restartedMain] INFO  c.p.AuthorizationServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-10_10-15-08 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9000 (http)
+2022-06-10_10-15-08 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-10_10-15-08 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-06-10_10-15-08 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-10_10-15-08 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 487 ms
+2022-06-10_10-15-08 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1835173d, org.springframework.security.web.context.SecurityContextPersistenceFilter@52d355b3, org.springframework.security.web.header.HeaderWriterFilter@746af971, org.springframework.security.web.authentication.logout.LogoutFilter@10642346, com.pensionauth.config.JwtRequestFilter@423c436c, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@7e8140c, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@24ead4f1, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@400996ef, org.springframework.security.web.session.SessionManagementFilter@c7e0741, org.springframework.security.web.access.ExceptionTranslationFilter@70c4a540, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@27461d01]
+2022-06-10_10-15-08 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-06-10_10-15-08 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9000 (http) with context path ''
+2022-06-10_10-15-08 [restartedMain] INFO  c.p.AuthorizationServiceApplication - Started AuthorizationServiceApplication in 0.77 seconds (JVM running for 154.769)
+2022-06-10_10-15-08 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2022-06-10_10-15-08 [RMI TCP Connection(6)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2022-06-10_10-19-31 [restartedMain] INFO  c.p.AuthorizationServiceApplication - Starting AuthorizationServiceApplication using Java 13 on DESKTOP-KA0RH82 with PID 11528 (C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service\target\classes started by SHREYASH in C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service)
+2022-06-10_10-19-31 [restartedMain] INFO  c.p.AuthorizationServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-10_10-19-31 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9000 (http)
+2022-06-10_10-19-31 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-10_10-19-31 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-06-10_10-19-31 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-10_10-19-31 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1254 ms
+2022-06-10_10-19-31 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@2ce12c95, org.springframework.security.web.context.SecurityContextPersistenceFilter@2f4d6a11, org.springframework.security.web.header.HeaderWriterFilter@631326c2, org.springframework.security.web.authentication.logout.LogoutFilter@228c17df, com.pensionauth.config.JwtRequestFilter@6f73ba98, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@5655d1da, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2c0ad8e4, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@33cfa4c2, org.springframework.security.web.session.SessionManagementFilter@68b4443f, org.springframework.security.web.access.ExceptionTranslationFilter@c5ea7ed, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@1bac9884]
+2022-06-10_10-19-31 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-06-10_10-19-31 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9000 (http) with context path ''
+2022-06-10_10-19-31 [restartedMain] INFO  c.p.AuthorizationServiceApplication - Started AuthorizationServiceApplication in 1.965 seconds (JVM running for 152.451)
+2022-06-10_10-19-31 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2022-06-10_10-19-35 [restartedMain] INFO  c.p.AuthorizationServiceApplication - Starting AuthorizationServiceApplication using Java 13 on DESKTOP-KA0RH82 with PID 11528 (C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service\target\classes started by SHREYASH in C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service)
+2022-06-10_10-19-35 [restartedMain] INFO  c.p.AuthorizationServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-10_10-19-35 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9000 (http)
+2022-06-10_10-19-35 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-10_10-19-35 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-06-10_10-19-35 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-10_10-19-35 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 547 ms
+2022-06-10_10-19-35 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@70059991, org.springframework.security.web.context.SecurityContextPersistenceFilter@646c7fdd, org.springframework.security.web.header.HeaderWriterFilter@271e2074, org.springframework.security.web.authentication.logout.LogoutFilter@32daf772, com.pensionauth.config.JwtRequestFilter@7a1dd78e, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@57aae4c3, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1e173c2, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@124d6359, org.springframework.security.web.session.SessionManagementFilter@18f59de2, org.springframework.security.web.access.ExceptionTranslationFilter@24a2eaf1, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@53ba942c]
+2022-06-10_10-19-35 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-06-10_10-19-35 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9000 (http) with context path ''
+2022-06-10_10-19-35 [restartedMain] INFO  c.p.AuthorizationServiceApplication - Started AuthorizationServiceApplication in 0.865 seconds (JVM running for 155.077)
+2022-06-10_10-19-35 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2022-06-10_10-19-35 [RMI TCP Connection(6)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2022-06-10_10-20-33 [restartedMain] INFO  c.p.AuthorizationServiceApplication - Starting AuthorizationServiceApplication using Java 13 on DESKTOP-KA0RH82 with PID 14212 (C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service\target\classes started by SHREYASH in C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service)
+2022-06-10_10-20-33 [restartedMain] INFO  c.p.AuthorizationServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-10_10-20-33 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-06-10_10-20-33 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-06-10_10-20-33 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9000 (http)
+2022-06-10_10-20-33 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9000"]
+2022-06-10_10-20-33 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-10_10-20-33 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-06-10_10-20-33 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-10_10-20-33 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2523 ms
+2022-06-10_10-20-33 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@52f2e9fb, org.springframework.security.web.context.SecurityContextPersistenceFilter@3ec35f85, org.springframework.security.web.header.HeaderWriterFilter@55a0c2d3, org.springframework.security.web.authentication.logout.LogoutFilter@2b6c62a, com.pensionauth.config.JwtRequestFilter@71dcd14e, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3387fb9b, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@7334cf96, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2fbcc66a, org.springframework.security.web.session.SessionManagementFilter@16a54540, org.springframework.security.web.access.ExceptionTranslationFilter@10cbea0c, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@217d84dc]
+2022-06-10_10-20-33 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-06-10_10-20-33 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9000"]
+2022-06-10_10-20-33 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9000 (http) with context path ''
+2022-06-10_10-20-33 [restartedMain] INFO  c.p.AuthorizationServiceApplication - Started AuthorizationServiceApplication in 4.864 seconds (JVM running for 6.428)
+2022-06-10_10-20-33 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-10_10-20-33 [http-nio-9000-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-06-10_10-20-33 [http-nio-9000-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2022-06-10_10-20-33 [http-nio-9000-exec-1] INFO  c.p.c.JwtAuthenticationController - Inside authenticate Method==================================
+2022-06-10_10-20-33 [http-nio-9000-exec-1] INFO  c.p.c.JwtAuthenticationController - Authentication Successful.....
+2022-06-10_10-20-33 [http-nio-9000-exec-1] INFO  c.p.c.JwtAuthenticationController - UsernamePasswordAuthenticationToken [Principal=org.springframework.security.core.userdetails.User [Username=user, Password=[PROTECTED], Enabled=true, AccountNonExpired=true, credentialsNonExpired=true, AccountNonLocked=true, Granted Authorities=[]], Credentials=[PROTECTED], Authenticated=true, Details=null, Granted Authorities=[]]
+2022-06-10_10-22-20 [restartedMain] INFO  c.p.AuthorizationServiceApplication - Starting AuthorizationServiceApplication using Java 13 on DESKTOP-KA0RH82 with PID 14512 (C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service\target\classes started by SHREYASH in C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service)
+2022-06-10_10-22-20 [restartedMain] INFO  c.p.AuthorizationServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-10_10-22-20 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-06-10_10-22-20 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-06-10_10-22-20 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9000 (http)
+2022-06-10_10-22-20 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9000"]
+2022-06-10_10-22-20 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-10_10-22-20 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-06-10_10-22-20 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-10_10-22-20 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3116 ms
+2022-06-10_10-22-20 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@22ce5af7, org.springframework.security.web.context.SecurityContextPersistenceFilter@519556f5, org.springframework.security.web.header.HeaderWriterFilter@1f0ed8be, org.springframework.security.web.authentication.logout.LogoutFilter@214b0d54, com.pensionauth.config.JwtRequestFilter@7bf219e2, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@75c125fd, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@7b7fe29d, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@62afbbc6, org.springframework.security.web.session.SessionManagementFilter@4980d10c, org.springframework.security.web.access.ExceptionTranslationFilter@5768fa6, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@1ec72f5a]
+2022-06-10_10-22-20 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9000"]
+2022-06-10_10-22-20 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-9000"]
+2022-06-10_10-22-20 [restartedMain] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2022-06-10_10-22-20 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-9000"]
+2022-06-10_10-22-20 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-9000"]
+2022-06-10_10-22-20 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-06-10_10-20-33 [http-nio-9000-exec-5] INFO  c.p.c.JwtAuthenticationController - Inside authenticate Method==================================
+2022-06-10_10-20-33 [http-nio-9000-exec-5] INFO  c.p.c.JwtAuthenticationController - Authentication Successful.....
+2022-06-10_10-20-33 [http-nio-9000-exec-5] INFO  c.p.c.JwtAuthenticationController - UsernamePasswordAuthenticationToken [Principal=org.springframework.security.core.userdetails.User [Username=user, Password=[PROTECTED], Enabled=true, AccountNonExpired=true, credentialsNonExpired=true, AccountNonLocked=true, Granted Authorities=[]], Credentials=[PROTECTED], Authenticated=true, Details=null, Granted Authorities=[]]
+2022-06-10_10-23-52 [restartedMain] INFO  c.p.AuthorizationServiceApplication - Starting AuthorizationServiceApplication using Java 13 on DESKTOP-KA0RH82 with PID 14212 (C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service\target\classes started by SHREYASH in C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service)
+2022-06-10_10-23-52 [restartedMain] INFO  c.p.AuthorizationServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-10_10-23-52 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9000 (http)
+2022-06-10_10-23-52 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9000"]
+2022-06-10_10-23-52 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-10_10-23-52 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-06-10_10-23-52 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-10_10-23-52 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1289 ms
+2022-06-10_10-24-12 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Starting AuthorizationServiceApplication using Java 13 on DESKTOP-KA0RH82 with PID 10740 (C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service\target\classes started by SHREYASH in C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service)
+2022-06-10_10-24-12 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-10_10-24-12 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-06-10_10-24-12 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-06-10_10-24-12 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9000 (http)
+2022-06-10_10-24-12 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9000"]
+2022-06-10_10-24-12 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-10_10-24-12 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-06-10_10-24-12 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-10_10-24-12 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2950 ms
+2022-06-10_10-24-12 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@19f46b16, org.springframework.security.web.context.SecurityContextPersistenceFilter@5a40d763, org.springframework.security.web.header.HeaderWriterFilter@29741567, org.springframework.security.web.authentication.logout.LogoutFilter@4e66fc38, com.pms.auth.config.JwtRequestFilter@72960a60, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@77abe1fb, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@63a56fb5, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@642a7717, org.springframework.security.web.session.SessionManagementFilter@c941c34, org.springframework.security.web.access.ExceptionTranslationFilter@4d08e778, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@43297f8]
+2022-06-10_10-24-12 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-06-10_10-24-12 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9000"]
+2022-06-10_10-24-12 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9000 (http) with context path ''
+2022-06-10_10-24-12 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Started AuthorizationServiceApplication in 6.312 seconds (JVM running for 8.102)
+2022-06-10_10-24-12 [RMI TCP Connection(2)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2022-06-10_10-24-52 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Starting AuthorizationServiceApplication using Java 13 on DESKTOP-KA0RH82 with PID 2028 (C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service\target\classes started by SHREYASH in C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service)
+2022-06-10_10-24-52 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-10_10-24-52 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-06-10_10-24-52 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-06-10_10-24-52 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9000 (http)
+2022-06-10_10-24-52 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9000"]
+2022-06-10_10-24-52 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-10_10-24-52 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-06-10_10-24-52 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-10_10-24-52 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2186 ms
+2022-06-10_10-24-52 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@12faa8ee, org.springframework.security.web.context.SecurityContextPersistenceFilter@396546e4, org.springframework.security.web.header.HeaderWriterFilter@20b003e1, org.springframework.security.web.authentication.logout.LogoutFilter@2c0e133d, com.pms.auth.config.JwtRequestFilter@75b0dcdf, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@5c2439a9, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1ae2e84f, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@5d0b072f, org.springframework.security.web.session.SessionManagementFilter@3ba568d, org.springframework.security.web.access.ExceptionTranslationFilter@3ce0c22e, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@6d699b66]
+2022-06-10_10-24-52 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-06-10_10-24-52 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9000"]
+2022-06-10_10-24-52 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9000 (http) with context path ''
+2022-06-10_10-24-52 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Started AuthorizationServiceApplication in 4.982 seconds (JVM running for 6.485)
+2022-06-10_10-24-52 [http-nio-9000-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-10_10-24-52 [http-nio-9000-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-06-10_10-24-52 [http-nio-9000-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-06-10_10-24-52 [http-nio-9000-exec-2] INFO  c.p.a.c.JwtAuthenticationController - Inside authenticate Method==================================
+2022-06-10_10-24-52 [http-nio-9000-exec-2] INFO  c.p.a.c.JwtAuthenticationController - Authentication Successful.....
+2022-06-10_10-24-52 [http-nio-9000-exec-2] INFO  c.p.a.c.JwtAuthenticationController - UsernamePasswordAuthenticationToken [Principal=org.springframework.security.core.userdetails.User [Username=user, Password=[PROTECTED], Enabled=true, AccountNonExpired=true, credentialsNonExpired=true, AccountNonLocked=true, Granted Authorities=[]], Credentials=[PROTECTED], Authenticated=true, Details=null, Granted Authorities=[]]
+2022-06-10_10-30-24 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Starting AuthorizationServiceApplication using Java 13 on DESKTOP-KA0RH82 with PID 2028 (C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service\target\classes started by SHREYASH in C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service)
+2022-06-10_10-30-24 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-10_10-30-24 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9000 (http)
+2022-06-10_10-30-24 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9000"]
+2022-06-10_10-30-24 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-10_10-30-24 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-06-10_10-30-24 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-10_10-30-24 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1135 ms
+2022-06-10_10-30-24 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-06-10_10-30-24 [restartedMain] INFO  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: add54819-3ddf-430f-b39c-04d6f9cdb3f9
+
+2022-06-10_10-30-24 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4108afad, org.springframework.security.web.context.SecurityContextPersistenceFilter@1601fb0, org.springframework.security.web.header.HeaderWriterFilter@7bef805b, org.springframework.security.web.csrf.CsrfFilter@5d10fa9, org.springframework.security.web.authentication.logout.LogoutFilter@42e206c0, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@502de7ca, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@7006100d, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@1212db58, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@1883b81b, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@74808f60, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@73ea34f3, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@5fbb35b1, org.springframework.security.web.session.SessionManagementFilter@c41e5d6, org.springframework.security.web.access.ExceptionTranslationFilter@23facdf9, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@6d295d85]
+2022-06-10_10-30-24 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9000"]
+2022-06-10_10-30-24 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9000 (http) with context path ''
+2022-06-10_10-30-24 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Started AuthorizationServiceApplication in 1.554 seconds (JVM running for 335.011)
+2022-06-10_10-30-24 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation delta:
+
+
+==========================
+CONDITION EVALUATION DELTA
+==========================
+
+
+Positive matches:
+-----------------
+
+   SpringBootWebSecurityConfiguration matched:
+      - found 'session' scope (OnWebApplicationCondition)
+      - AllNestedConditions 2 matched 0 did not; NestedCondition on DefaultWebSecurityCondition.Beans @ConditionalOnMissingBean (types: org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter,org.springframework.security.web.SecurityFilterChain; SearchStrategy: all) did not find any beans; NestedCondition on DefaultWebSecurityCondition.Classes @ConditionalOnClass found required classes 'org.springframework.security.web.SecurityFilterChain', 'org.springframework.security.config.annotation.web.builders.HttpSecurity' (DefaultWebSecurityCondition)
+
+   UserDetailsServiceAutoConfiguration matched:
+      - @ConditionalOnClass found required class 'org.springframework.security.authentication.AuthenticationManager' (OnClassCondition)
+      - @ConditionalOnBean (types: org.springframework.security.config.annotation.ObjectPostProcessor; SearchStrategy: all) found bean 'objectPostProcessor'; @ConditionalOnMissingBean (types: org.springframework.security.authentication.AuthenticationManager,org.springframework.security.authentication.AuthenticationProvider,org.springframework.security.core.userdetails.UserDetailsService,org.springframework.security.authentication.AuthenticationManagerResolver,org.springframework.security.oauth2.jwt.JwtDecoder,org.springframework.security.oauth2.server.resource.introspection.OpaqueTokenIntrospector,org.springframework.security.oauth2.client.registration.ClientRegistrationRepository; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+   WebSecurityEnablerConfiguration matched:
+      - @ConditionalOnClass found required class 'org.springframework.security.config.annotation.web.configuration.EnableWebSecurity' (OnClassCondition)
+      - found 'session' scope (OnWebApplicationCondition)
+      - @ConditionalOnMissingBean (names: springSecurityFilterChain; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+
+Negative matches:
+-----------------
+
+    None
+
+
+Exclusions:
+-----------
+
+    None
+
+
+Unconditional classes:
+----------------------
+
+    None
+
+
+
+2022-06-10_10-30-28 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Starting AuthorizationServiceApplication using Java 13 on DESKTOP-KA0RH82 with PID 2028 (C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service\target\classes started by SHREYASH in C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service)
+2022-06-10_10-30-28 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-10_10-30-28 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9000 (http)
+2022-06-10_10-30-28 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9000"]
+2022-06-10_10-30-28 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-10_10-30-28 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-06-10_10-30-28 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-10_10-30-28 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 711 ms
+2022-06-10_10-30-28 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-06-10_10-30-28 [restartedMain] INFO  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: e2b68dd6-9dd8-4d54-9307-343d5accd496
+
+2022-06-10_10-30-28 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@5fb4e4d2, org.springframework.security.web.context.SecurityContextPersistenceFilter@4b5a5ac3, org.springframework.security.web.header.HeaderWriterFilter@532d1f37, org.springframework.security.web.csrf.CsrfFilter@26225c6b, org.springframework.security.web.authentication.logout.LogoutFilter@6b76e808, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@3531a6a5, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@6dc8464c, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@56fd7ab1, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@5e69f844, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@550947a0, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@6ee62e91, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6ec1fa45, org.springframework.security.web.session.SessionManagementFilter@7faf9059, org.springframework.security.web.access.ExceptionTranslationFilter@44351d1, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@5fead540]
+2022-06-10_10-30-28 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9000"]
+2022-06-10_10-30-28 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9000 (http) with context path ''
+2022-06-10_10-30-28 [restartedMain] INFO  c.p.a.AuthorizationServiceApplication - Started AuthorizationServiceApplication in 1.196 seconds (JVM running for 338.945)
+2022-06-10_10-30-28 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2022-06-10_10-33-25 [restartedMain] INFO  c.p.AuthorizationServiceApplication - Starting AuthorizationServiceApplication using Java 13 on DESKTOP-KA0RH82 with PID 14700 (C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service\target\classes started by SHREYASH in C:\Users\SHREYASH\Desktop\New folder (2)\pension-management-system-main\authorization-service)
+2022-06-10_10-33-25 [restartedMain] INFO  c.p.AuthorizationServiceApplication - No active profile set, falling back to default profiles: default
+2022-06-10_10-33-25 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 9000 (http)
+2022-06-10_10-33-25 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2022-06-10_10-33-25 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-06-10_10-33-25 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-06-10_10-33-25 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 591 ms
+2022-06-10_10-33-25 [restartedMain] INFO  o.s.s.web.DefaultSecurityFilterChain - Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@12fcd89d, org.springframework.security.web.context.SecurityContextPersistenceFilter@61dbfab3, org.springframework.security.web.header.HeaderWriterFilter@70e19397, org.springframework.security.web.authentication.logout.LogoutFilter@5e43b152, com.pensionauth.config.JwtRequestFilter@4435e64a, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@66efd988, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1aee93e9, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3460bd80, org.springframework.security.web.session.SessionManagementFilter@40174e0f, org.springframework.security.web.access.ExceptionTranslationFilter@1c536c0c, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@67fa2c88]
+2022-06-10_10-33-25 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-06-10_10-33-25 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 9000 (http) with context path ''
+2022-06-10_10-33-25 [restartedMain] INFO  c.p.AuthorizationServiceApplication - Started AuthorizationServiceApplication in 1.036 seconds (JVM running for 111.333)
+2022-06-10_10-33-25 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
